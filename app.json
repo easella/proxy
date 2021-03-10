@@ -1,0 +1,11 @@
+{
+    "name": "luckypapers",
+    "description": "Fastest prhttps://github.com/easella/proxy/oxy using only nginx as the backend server",
+    "repository": "https://github.com/easella/proxy/",
+    "logo": "https://raw.githubusercontent.com/binary-person/womginx/master/public/logo.png",
+    "keywords": [
+        "nginx",
+        "docker"
+    ],
+    "stack": "container"
+}
